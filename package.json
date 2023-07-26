@@ -6,7 +6,7 @@
   "module": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plangrid/react-file-viewer.git"
+    "url": "git+https://github.com/Alpha-Dolphi/react-file-viewer-x.git"    
   },
   "scripts": {
     "dev": "webpack -d --watch",
