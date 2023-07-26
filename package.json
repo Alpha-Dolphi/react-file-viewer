@@ -1,6 +1,6 @@
 {
   "name": "react-file-viewer-x",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Extendable file viewer for web",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -85,7 +85,7 @@
     "react-data-grid": "^5.0.5",
     "react-visibility-sensor": "^5.0.2",
     "three": "0.85.2",
-    "xlsx": "^0.10.1"
+    "xlsx": "^0.10.9"
   },
   "peerDependencies": {
     "react": "^16.6.3",

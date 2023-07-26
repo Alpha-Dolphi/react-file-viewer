@@ -59,7 +59,7 @@ class XlxsViewer extends Component {
     return (
       <div className="spreadsheet-viewer">
         {this.renderSheetNames(names)}
-        {this.renderSheetData(sheets[curSheetIndex || 0])}
+        <div style={{ background: 'white' }} dangerouslySetInnerHTML={{ __html: sheets[curSheetIndex || 0] }} />
       </div>
     );
   }
